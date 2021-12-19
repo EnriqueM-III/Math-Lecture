@@ -2,12 +2,12 @@
 
     #include <iostream>
     #include <math.h>
-using namespace std;
+    using namespace std;
 
 
 
-int main()
-{
+	int main()
+	{
 
 
 
@@ -22,19 +22,19 @@ int main()
 
 
 
-}
+	}
 
 ## Input
 
 
-#include <iostream>
-#include <math.h>
-using namespace std;
+	#include <iostream>
+	#include <math.h>
+	using namespace std;
 
 
 
-int main ()
-{
+	int main ()
+	{
 
 	int x;
 	cout << "Your turn! Input a number to determine both cube and square root" << endl;
@@ -48,5 +48,5 @@ int main ()
 	cout << "The square root of " << x << " is " << sqrt(x) << endl;
 	cout << "The cube root of " << x << " is " << cbrt(x) << endl;
   
-  }
+  	}
 	
